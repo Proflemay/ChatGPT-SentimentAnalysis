@@ -22,7 +22,7 @@ Le principal outil est le logiciel de statistiques R, avec les librairies tidyte
 
 Un notebook Jupyter dans Visual Studio Code a été développé afin de travailler de manière itérative.
 
-Une version en français et une version en anglaise sont disponibles ici.
+Une version en français et une version en anglais sont disponibles ici.
 
 ## Données
 Les données utilisées pour l'analyse sont tirées du répertoire 500k ChatGPT-related Tweets Jan-Mar 2023, sur Kaggle.
