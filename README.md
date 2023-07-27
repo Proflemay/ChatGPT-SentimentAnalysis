@@ -24,6 +24,10 @@ Un notebook Jupyter dans Visual Studio Code a été développé afin de travaill
 
 Une version en français et une version en anglaise sont disponibles ici.
 
+## Données
+Les données utilisées pour l'analyse sont tirées du répertoire 500k ChatGPT-related Tweets Jan-Mar 2023, sur Kaggle.
+https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023
+
 ## Étapes d'analyses
 - Installation des outils - libraires spécialisées de R
 - Importation des données
